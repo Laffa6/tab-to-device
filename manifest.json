@@ -1,0 +1,22 @@
+{
+    "name" : "Tab to Device",
+    "version" : "1.0.0",
+    "description" : "Create a QRcode of your current url",
+    "permissions" : ["activeTab", "declarativeContent", "storage"],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/icons_16.png",
+            "32": "images/icons_32.png",
+            "48": "images/icons_48.png",
+            "128": "images/icons_128.png"
+          }
+    },
+    "icons": {
+        "16": "images/icons_16.png",
+        "32": "images/icons_32.png",
+        "48": "images/icons_48.png",
+        "128": "images/icons_128.png"
+    },
+    "manifest_version" : 2
+}
