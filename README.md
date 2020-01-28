@@ -1,4 +1,6 @@
 # tab-to-device
 An open-source chrome extension : 
 
-Create a QRcode of your current url
+Generate a QRcode of your current tab URL with just a click.
+
+Thanks to neocotic for his QRious library ! https://github.com/neocotic/qrious
