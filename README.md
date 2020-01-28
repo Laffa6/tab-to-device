@@ -4,3 +4,5 @@ An open-source chrome extension :
 Generate a QRcode of your current tab URL with just a click.
 
 Thanks to neocotic for his QRious library ! https://github.com/neocotic/qrious
+
+Icons made by Kiranshastry from https://www.flaticon.com/
